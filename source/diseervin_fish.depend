@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1739928759 source:/home/luis/Documentos/codeblocks/diseervin_fish/CPosition.cpp
+	"CPosition.h"
+	<iostream>
+
+1738871166 /home/luis/Documentos/codeblocks/diseervin_fish/CPosition.h
+	<vector>
+	<string>
+	<chess.hpp>
+
+1739065756 /home/luis/Documentos/codeblocks/disservin/include/chess.hpp
+	<functional>
+	<utility>
+	<cstdint>
+	<bit>
+	<algorithm>
+	<bitset>
+	<cassert>
+	<iostream>
+	<string>
+	<intrin.h>
+	<nmmintrin.h>
+	<string_view>
+	<ostream>
+	<vector>
+	<array>
+	<cctype>
+	<optional>
+	<cstddef>
+	<iterator>
+	<stdexcept>
+	<istream>
+	<sstream>
+
+1739930139 source:/home/luis/Documentos/codeblocks/diseervin_fish/main.cpp
+	<iostream>
+	"NumbFishProbe.h"
+	<thread>
+
+1739930146 source:/home/luis/Documentos/codeblocks/diseervin_fish/NumbFishProbe.cpp
+	"NumbFishProbe.h"
+	<time.h>
+	<iostream>
+	<chrono>
+	"nnue/nnue.h"
+	"SyzygyOnline.h"
+
+1738871482 /home/luis/Documentos/codeblocks/diseervin_fish/NumbFishProbe.h
+	<bits/stdc++.h>
+	"CPosition.h"
+	<optional>
+	"Cbook.h"
+
+1738175802 source:/home/luis/Documentos/codeblocks/diseervin_fish/Cbook.cpp
+	"Cbook.h"
+	"chess.hpp"
+
+1738175784 /home/luis/Documentos/codeblocks/diseervin_fish/Cbook.h
+	"reader.hpp"
+
+1718234597 /home/luis/Documentos/codeblocks/diseervin_fish/reader.hpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<string>
+	<cstdint>
+	<vector>
+	<random>
+	<algorithm>
+
+1736535217 /home/luis/Documentos/codeblocks/diseervin_fish/nnue/nnue.h
+	<stdint.h>
+	<stdalign.h>
+
+1738803226 source:/home/luis/Documentos/codeblocks/diseervin_fish/SyzygyOnline.cpp
+	"SyzygyOnline.h"
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+
+1738631718 /home/luis/Documentos/codeblocks/diseervin_fish/SyzygyOnline.h
+	<chess.hpp>
+
+1739324365 source:/home/luis/Documentos/codeblocks/diseervin_fish/CTTable.cpp
+	"CTTable.h"
+
+1739324948 /home/luis/Documentos/codeblocks/diseervin_fish/CTTable.h
+	<cstdint>
+	<vector>
+
