@@ -10,3 +10,6 @@ Nnueprobe library
 Syzygy Online from SHL library 
 "reader.hpp" for openning .bin books (Shreyas Deo). 
 It has a 2 codeblocks. .cbp project. Look at the project properties-> project build options-> linker settings(nnuprobe) and -pthread and search directories for dissevin source files. 
+
+After buiding you can test it with a nice python interface that I use to test engines:  
+https://github.com/jesusmontera/Python-interface-for-chess-uci-engines-battles
