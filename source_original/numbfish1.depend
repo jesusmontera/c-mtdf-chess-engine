@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1737074537 source:/home/luis/Documentos/codeblocks/numbfish1/CPosition.cpp
+	"CPosition.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1736558581 /home/luis/Documentos/codeblocks/numbfish1/CPosition.h
+	<vector>
+	<string>
+
+1738205568 source:/home/luis/Documentos/codeblocks/numbfish1/main.cpp
+	<bits/stdc++.h>
+	"NumbFishProbe.h"
+	<thread>
+
+1738206660 source:/home/luis/Documentos/codeblocks/numbfish1/NumbFishProbe.cpp
+	"NumbFishProbe.h"
+	<time.h>
+	<iostream>
+	<chrono>
+	"nnue/nnue.h"
+
+1738205908 /home/luis/Documentos/codeblocks/numbfish1/NumbFishProbe.h
+	<bits/stdc++.h>
+	"CPosition.h"
+	<optional>
+	"Cbook.h"
+
+1736539058 source:/home/luis/Documentos/codeblocks/numbfish1/CnnueEvaluator.cpp
+	"CnnueEvaluator.h"
+	"nnue/nnue.h"
+
+1736537955 /home/luis/Documentos/codeblocks/numbfish1/CnnueEvaluator.h
+
+1736535217 /home/luis/Documentos/codeblocks/numbfish1/nnue/nnue.h
+	<stdint.h>
+	<stdalign.h>
+
+1738030671 /home/luis/Documentos/codeblocks/numbfish1/Cbook.h
+	"reader.hpp"
+
+1718234597 /home/luis/Documentos/codeblocks/numbfish1/reader.hpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<string>
+	<cstdint>
+	<vector>
+	<random>
+	<algorithm>
+
+1739065756 /home/luis/Documentos/codeblocks/disservin/include/chess.hpp
+	<functional>
+	<utility>
+	<cstdint>
+	<bit>
+	<algorithm>
+	<bitset>
+	<cassert>
+	<iostream>
+	<string>
+	<intrin.h>
+	<nmmintrin.h>
+	<string_view>
+	<ostream>
+	<vector>
+	<array>
+	<cctype>
+	<optional>
+	<cstddef>
+	<iterator>
+	<stdexcept>
+	<istream>
+	<sstream>
+
+1738030639 source:/home/luis/Documentos/codeblocks/numbfish1/Cbook.cpp
+	"Cbook.h"
+	"chess.hpp"
+
